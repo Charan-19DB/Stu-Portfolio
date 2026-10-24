@@ -28,4 +28,3 @@ Detailed descriptions of academic and personal projects developed by **Charan Ku
 - **Technologies:** Python 3, Object-Oriented Programming, JSON file storage.
 - **My contribution:** Authored the data structures (dictionaries and classes) to manage book catalogue status, search filters, and borrowing timestamps.
 - **Possible improvement:** Integrate email notification reminders for overdue book returns using automated background tasks.
-
