@@ -122,13 +122,14 @@ Create and switch to an isolated feature branch named `add-projects`, update `pr
 ### Activity Execution & Steps
 1. Created and switched to branch: `git checkout -b add-projects`.
 2. Documented 3 detailed software projects in `projects.md`:
-   - **Project 1:** Smart Student Attendance & Performance Tracking System (Java, CSV, File I/O)
-   - **Project 2:** Responsive Developer Portfolio & Assessment Showcase (HTML5, CSS3, Git)
-   - **Project 3:** Library Book Inventory & Borrowing Manager (Python, OOP, JSON)
+   - **Project 1:** Opticrop — Smart Agricultural Crop Health & Yield Optimization (Python, Deep Learning, OpenCV, Flask)
+   - **Project 2:** CogniVision — Intelligent Computer Vision & Cognitive Perception Platform (Python, YOLO/CNN, OpenCV, Deep Learning)
+   - **Project 3:** SmartAid — Intelligent Emergency & Healthcare Assistance System (Python, Machine Learning, Web APIs, HTML5/CSS3)
 3. Inspected unstaged changes with `git status` and `git diff`.
 4. Staged and committed: `git add projects.md` and `git commit -m "Add student project descriptions"`.
 5. Pushed branch to GitHub: `git push -u origin add-projects`.
 6. Verified on GitHub that `add-projects` exists as an active feature branch.
+
 
 ### Git Commands & Terminal Output
 ```powershell
