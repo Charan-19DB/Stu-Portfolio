@@ -13,6 +13,7 @@
 | **College / Institution** | Aditya College of Engineering & Technology (ACET) — Surampalem |
 | **Degree & Branch** | B.Tech in Computer Science and Engineering (CSE) |
 | **GitHub Username** | [Charan-19DB](https://github.com/Charan-19DB) |
+| **LinkedIn Profile** | [linkedin.com/in/charan-sai-raju-kurupudi-b1a0a0291](https://www.linkedin.com/in/charan-sai-raju-kurupudi-b1a0a0291/) |
 | **Portfolio Repository URL** | [https://github.com/Charan-19DB/Stu-Portfolio.git](https://github.com/Charan-19DB/Stu-Portfolio.git) |
 | **Trainer Repository URL** | [https://github.com/mcnu5528-coder/Student-Portfolio.git](https://github.com/mcnu5528-coder/Student-Portfolio.git) |
 | **Fork Repository URL** | [https://github.com/Charan-19DB/Student-Portfolio.git](https://github.com/Charan-19DB/Student-Portfolio.git) |
