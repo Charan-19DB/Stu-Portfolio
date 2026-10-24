@@ -1,23 +1,26 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
+Technical skills, programming competencies, and active learning roadmap for **Charan Kurupudi** (Roll No: **23MH1A05I2**).
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- **Java** — Intermediate (Object-Oriented Programming, Collections Framework, File I/O, Exception Handling)
+- **Python** — Intermediate (Scripting, Data Structures, Problem Solving)
+- **C** — Beginner / Intermediate (Pointers, Memory Management, Procedural Logic)
 
 ## Web Technologies
-- HTML
-- CSS
-- JavaScript (currently learning)
+- **HTML5** — Semantic page layout, accessibility fundamentals
+- **CSS3** — Responsive web design, Flexbox, CSS Grid, media queries
+- **JavaScript (ES6+)** — DOM manipulation, asynchronous programming, fetch API
 
-## Developer Tools
-- Git
-- GitHub
-- Visual Studio Code
+## Developer Tools & Platforms
+- **Git** — Version control, branching, committing, rebasing, merge conflict resolution
+- **GitHub** — Remote repository hosting, Pull Requests, collaborative workflows
+- **VS Code** — IDE setup, Git integrations, debugging tools
+- **Operating Systems** — Windows 11, Linux bash fundamentals
 
-## Skills to Improve
-- Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+## Active Learning Goals & Certifications
+- Advanced Data Structures and Algorithms (Trees, Graphs, Dynamic Programming)
+- Database Management Systems with SQL and relational database schemas
+- RESTful Web API development and backend frameworks
+- Automated testing and continuous integration (CI/CD) pipelines
+
